@@ -52,6 +52,6 @@ Q2 add a swap partition of 512MiB
 Q3. the recommended profile shoudl be the default profile for you system
 
 [EXTRA QUESTION]
-Q. the user rohan wants to find adminpuja's secret. But he didn't remember the exect file name where she had written her secret. the only thing he can remember is the word "puja" is in the name of that file, and the extention of that file is .txt (for example ab12puja3.txt).
-But there are so many files in this formate. rohan is confused. Then rohan guess that there must be a word "Love" in that secret file's content. get the secret of adminpuja.
+Q. the user rohan wants to find puja's secret. But he didn't remember the exect file name where she had written her secret. the only thing he can remember is the word "puja" is in the name of that file, and the extention of that file is .txt (for example ab12puja3.txt).
+But there are so many files in this formate. rohan is confused. Then rohan guess that there must be a word "Love" in that secret file's content. get the secret of user puja.
 
